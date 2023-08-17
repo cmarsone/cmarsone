@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Clément (@cmarsone)
-- 👀 I’m interested in Cycling, Sacred Music & Opera
-- 🌱 I’m currently learning Quantum Computing, Distributed Networks, Parallel Programming, Machine Learning...
+- 👀 I’m interested in Road Cycling, Sacred Music & Opera
+- 🌱 I’m currently learning High Performance Computing, Quantum Computing, Machine Learning...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/clement-marsone/ or https://www.strava.com/athletes/26254810
+- 📫 How to reach me: clement.marsone@icloud.com
 
 <!---
 cmarsone/cmarsone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
